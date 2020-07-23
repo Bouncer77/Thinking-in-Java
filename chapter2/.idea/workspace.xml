@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2343e5c4-b740-4551-b04e-9f9166030fc7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Thinking-in-Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2_tasks.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task1/ZeroInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task10/ArgsOut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task11/AllTheColorsOfTheRainbow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/HelloDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/allclasses-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/allclasses.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/allpackages-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/com/bouncer77/thinking/chapter2/task12/HelloDate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/com/bouncer77/thinking/chapter2/task12/class-use/HelloDate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/com/bouncer77/thinking/chapter2/task12/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/com/bouncer77/thinking/chapter2/task12/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/com/bouncer77/thinking/chapter2/task12/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/constant-values.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/deprecated-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/element-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/index-files/index-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/index-files/index-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/index-files/index-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/jquery/external/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/jquery/images/ui-bg_flat_0_aaaaaa_40x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/jquery/images/ui-bg_flat_75_ffffff_40x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/jquery/images/ui-bg_glass_55_fbf9ee_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/jquery/images/ui-bg_glass_65_ffffff_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/jquery/images/ui-bg_glass_75_dadada_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/jquery/images/ui-bg_glass_75_e6e6e6_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/jquery/images/ui-bg_glass_95_fef1ec_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/jquery/images/ui-icons_222222_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/jquery/images/ui-icons_2e83ff_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/jquery/images/ui-icons_454545_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/jquery/images/ui-icons_888888_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/jquery/images/ui-icons_cd0a0a_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/jquery/jquery-3.3.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/jquery/jquery-migrate-3.0.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/jquery/jquery-ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/jquery/jquery-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/jquery/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/jquery/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/jquery/jquery-ui.structure.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/jquery/jquery-ui.structure.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/jquery/jszip-utils/dist/jszip-utils-ie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/jquery/jszip-utils/dist/jszip-utils-ie.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/jquery/jszip-utils/dist/jszip-utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/jquery/jszip-utils/dist/jszip-utils.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/jquery/jszip/dist/jszip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/jquery/jszip/dist/jszip.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/member-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/package-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/resources/glass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/resources/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task12/javadoc_html/type-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/Documentation1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/Documentation2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/Documentation3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/allclasses-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/allclasses.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/allpackages-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/com/bouncer77/thinking/chapter2/task13/Documentation1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/com/bouncer77/thinking/chapter2/task13/Documentation2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/com/bouncer77/thinking/chapter2/task13/Documentation3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/com/bouncer77/thinking/chapter2/task13/class-use/Documentation1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/com/bouncer77/thinking/chapter2/task13/class-use/Documentation2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/com/bouncer77/thinking/chapter2/task13/class-use/Documentation3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/com/bouncer77/thinking/chapter2/task13/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/com/bouncer77/thinking/chapter2/task13/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/com/bouncer77/thinking/chapter2/task13/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/constant-values.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/deprecated-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/element-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/index-files/index-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/index-files/index-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/index-files/index-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/index-files/index-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/jquery/external/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/jquery/images/ui-bg_flat_0_aaaaaa_40x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/jquery/images/ui-bg_flat_75_ffffff_40x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/jquery/images/ui-bg_glass_55_fbf9ee_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/jquery/images/ui-bg_glass_65_ffffff_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/jquery/images/ui-bg_glass_75_dadada_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/jquery/images/ui-bg_glass_75_e6e6e6_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/jquery/images/ui-bg_glass_95_fef1ec_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/jquery/images/ui-icons_222222_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/jquery/images/ui-icons_2e83ff_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/jquery/images/ui-icons_454545_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/jquery/images/ui-icons_888888_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/jquery/images/ui-icons_cd0a0a_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/jquery/jquery-3.3.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/jquery/jquery-migrate-3.0.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/jquery/jquery-ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/jquery/jquery-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/jquery/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/jquery/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/jquery/jquery-ui.structure.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/jquery/jquery-ui.structure.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/jquery/jszip-utils/dist/jszip-utils-ie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/jquery/jszip-utils/dist/jszip-utils-ie.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/jquery/jszip-utils/dist/jszip-utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/jquery/jszip-utils/dist/jszip-utils.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/jquery/jszip/dist/jszip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/jquery/jszip/dist/jszip.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/member-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/package-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/resources/glass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/resources/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task13_14/javadoc_html/type-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/Overloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/javadoc_html/allclasses-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/javadoc_html/allclasses.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/javadoc_html/allpackages-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/javadoc_html/com/bouncer77/thinking/chapter2/task16/Overloading.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/javadoc_html/com/bouncer77/thinking/chapter2/task16/Tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/javadoc_html/com/bouncer77/thinking/chapter2/task16/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/javadoc_html/com/bouncer77/thinking/chapter2/task16/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/javadoc_html/constant-values.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/javadoc_html/deprecated-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/javadoc_html/element-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/javadoc_html/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/javadoc_html/index-all.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/javadoc_html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/javadoc_html/jquery/external/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/javadoc_html/jquery/images/ui-bg_flat_0_aaaaaa_40x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/javadoc_html/jquery/images/ui-bg_flat_75_ffffff_40x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/javadoc_html/jquery/images/ui-bg_glass_55_fbf9ee_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/javadoc_html/jquery/images/ui-bg_glass_65_ffffff_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/javadoc_html/jquery/images/ui-bg_glass_75_dadada_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/javadoc_html/jquery/images/ui-bg_glass_75_e6e6e6_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/javadoc_html/jquery/images/ui-bg_glass_95_fef1ec_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/javadoc_html/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/javadoc_html/jquery/images/ui-icons_222222_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/javadoc_html/jquery/images/ui-icons_2e83ff_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/javadoc_html/jquery/images/ui-icons_454545_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/javadoc_html/jquery/images/ui-icons_888888_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/javadoc_html/jquery/images/ui-icons_cd0a0a_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/javadoc_html/jquery/jquery-3.3.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/javadoc_html/jquery/jquery-migrate-3.0.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/javadoc_html/jquery/jquery-ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/javadoc_html/jquery/jquery-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/javadoc_html/jquery/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/javadoc_html/jquery/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/javadoc_html/jquery/jquery-ui.structure.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/javadoc_html/jquery/jquery-ui.structure.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/javadoc_html/jquery/jszip-utils/dist/jszip-utils-ie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/javadoc_html/jquery/jszip-utils/dist/jszip-utils-ie.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/javadoc_html/jquery/jszip-utils/dist/jszip-utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/javadoc_html/jquery/jszip-utils/dist/jszip-utils.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/javadoc_html/jquery/jszip/dist/jszip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/javadoc_html/jquery/jszip/dist/jszip.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/javadoc_html/member-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/javadoc_html/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/javadoc_html/package-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/javadoc_html/resources/glass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/javadoc_html/resources/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/javadoc_html/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/javadoc_html/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/javadoc_html/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task16/javadoc_html/type-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task2_15/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task2_15/javadoc_html/allclasses-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task2_15/javadoc_html/allclasses.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task2_15/javadoc_html/allpackages-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task2_15/javadoc_html/com/bouncer77/thinking/chapter2/task2_15/Main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task2_15/javadoc_html/com/bouncer77/thinking/chapter2/task2_15/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task2_15/javadoc_html/com/bouncer77/thinking/chapter2/task2_15/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task2_15/javadoc_html/constant-values.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task2_15/javadoc_html/deprecated-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task2_15/javadoc_html/element-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task2_15/javadoc_html/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task2_15/javadoc_html/index-all.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task2_15/javadoc_html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task2_15/javadoc_html/jquery/external/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task2_15/javadoc_html/jquery/images/ui-bg_flat_0_aaaaaa_40x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task2_15/javadoc_html/jquery/images/ui-bg_flat_75_ffffff_40x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task2_15/javadoc_html/jquery/images/ui-bg_glass_55_fbf9ee_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task2_15/javadoc_html/jquery/images/ui-bg_glass_65_ffffff_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task2_15/javadoc_html/jquery/images/ui-bg_glass_75_dadada_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task2_15/javadoc_html/jquery/images/ui-bg_glass_75_e6e6e6_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task2_15/javadoc_html/jquery/images/ui-bg_glass_95_fef1ec_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task2_15/javadoc_html/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task2_15/javadoc_html/jquery/images/ui-icons_222222_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task2_15/javadoc_html/jquery/images/ui-icons_2e83ff_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task2_15/javadoc_html/jquery/images/ui-icons_454545_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task2_15/javadoc_html/jquery/images/ui-icons_888888_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task2_15/javadoc_html/jquery/images/ui-icons_cd0a0a_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task2_15/javadoc_html/jquery/jquery-3.3.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task2_15/javadoc_html/jquery/jquery-migrate-3.0.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task2_15/javadoc_html/jquery/jquery-ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task2_15/javadoc_html/jquery/jquery-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task2_15/javadoc_html/jquery/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task2_15/javadoc_html/jquery/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task2_15/javadoc_html/jquery/jquery-ui.structure.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task2_15/javadoc_html/jquery/jquery-ui.structure.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task2_15/javadoc_html/jquery/jszip-utils/dist/jszip-utils-ie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task2_15/javadoc_html/jquery/jszip-utils/dist/jszip-utils-ie.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task2_15/javadoc_html/jquery/jszip-utils/dist/jszip-utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task2_15/javadoc_html/jquery/jszip-utils/dist/jszip-utils.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task2_15/javadoc_html/jquery/jszip/dist/jszip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task2_15/javadoc_html/jquery/jszip/dist/jszip.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task2_15/javadoc_html/member-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task2_15/javadoc_html/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task2_15/javadoc_html/package-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task2_15/javadoc_html/resources/glass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task2_15/javadoc_html/resources/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task2_15/javadoc_html/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task2_15/javadoc_html/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task2_15/javadoc_html/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task2_15/javadoc_html/type-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task3/ATypeName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task4/DataOnly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task5/DataOnlyMod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task6/StorageMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task7/Incrementable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task8/StaticMan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/task9/AutomaticPackingPrimitiveTypes.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1f6ASa7TqowP5O8OxMs68iU9lae" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RunManager" selected="Application.Overloading">
+    <configuration name="AllTheColorsOfTheRainbow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bouncer77.thinking.chapter2.task11.AllTheColorsOfTheRainbow" />
+      <module name="chapter2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bouncer77.thinking.chapter2.task11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArgsOut" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bouncer77.thinking.chapter2.task10.ArgsOut" />
+      <module name="chapter2" />
+      <option name="PROGRAM_PARAMETERS" value="arg1 arg2 arg3 arg4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bouncer77.thinking.chapter2.task10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutomaticPackingPrimitiveTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bouncer77.thinking.chapter2.task9.AutomaticPackingPrimitiveTypes" />
+      <module name="chapter2" />
+      <option name="PROGRAM_PARAMETERS" value="1 2 3 4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bouncer77.thinking.chapter2.task9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bouncer77.thinking.chapter2.task12.HelloDate" />
+      <module name="chapter2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bouncer77.thinking.chapter2.task12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Overloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bouncer77.thinking.chapter2.task16.Overloading" />
+      <module name="chapter2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bouncer77.thinking.chapter2.task16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.AutomaticPackingPrimitiveTypes" />
+      <item itemvalue="Application.ArgsOut" />
+      <item itemvalue="Application.AllTheColorsOfTheRainbow" />
+      <item itemvalue="Application.HelloDate" />
+      <item itemvalue="Application.Overloading" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Overloading" />
+        <item itemvalue="Application.HelloDate" />
+        <item itemvalue="Application.AllTheColorsOfTheRainbow" />
+        <item itemvalue="Application.ArgsOut" />
+        <item itemvalue="Application.AutomaticPackingPrimitiveTypes" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2343e5c4-b740-4551-b04e-9f9166030fc7" name="Default Changelist" comment="" />
+      <created>1595528168240</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595528168240</updated>
+      <workItem from="1595528169975" duration="4266000" />
+      <workItem from="1595533659017" duration="934000" />
+      <workItem from="1595534806826" duration="1583000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="235" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595536150055">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="414" y="235" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1160/1920.0.1280.984@0.0.1920.1160" timestamp="1595536150055" />
+    <state x="735" y="281" key="#com.intellij.ide.util.MemberChooser" timestamp="1595535321728">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="735" y="281" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1160/1920.0.1280.984@0.0.1920.1160" timestamp="1595535321728" />
+    <state x="689" y="370" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1595528656518">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="689" y="370" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1160/1920.0.1280.984@0.0.1920.1160" timestamp="1595528656518" />
+    <state x="714" y="300" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1595536158840">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="714" y="300" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1160/1920.0.1280.984@0.0.1920.1160" timestamp="1595536158840" />
+    <state x="740" y="335" key="FileChooserDialogImpl" timestamp="1595534586716">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="740" y="335" key="FileChooserDialogImpl/0.0.1920.1160/1920.0.1280.984@0.0.1920.1160" timestamp="1595534586716" />
+    <state width="1879" height="322" key="GridCell.Tab.0.bottom" timestamp="1595535778894">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1879" height="322" key="GridCell.Tab.0.bottom/0.0.1920.1160/1920.0.1280.984@0.0.1920.1160" timestamp="1595535778894" />
+    <state width="1879" height="322" key="GridCell.Tab.0.center" timestamp="1595535778893">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1879" height="322" key="GridCell.Tab.0.center/0.0.1920.1160/1920.0.1280.984@0.0.1920.1160" timestamp="1595535778893" />
+    <state width="1879" height="322" key="GridCell.Tab.0.left" timestamp="1595535778893">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1879" height="322" key="GridCell.Tab.0.left/0.0.1920.1160/1920.0.1280.984@0.0.1920.1160" timestamp="1595535778893" />
+    <state width="1879" height="322" key="GridCell.Tab.0.right" timestamp="1595535778894">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1879" height="322" key="GridCell.Tab.0.right/0.0.1920.1160/1920.0.1280.984@0.0.1920.1160" timestamp="1595535778894" />
+    <state x="483" y="226" key="SettingsEditor" timestamp="1595529500172">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="483" y="226" key="SettingsEditor/0.0.1920.1160/1920.0.1280.984@0.0.1920.1160" timestamp="1595529500172" />
+    <state x="385" y="242" key="new project wizard" timestamp="1595528189666">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="385" y="242" key="new project wizard/0.0.1920.1160/1920.0.1280.984@0.0.1920.1160" timestamp="1595528189666" />
+  </component>
+</project>
