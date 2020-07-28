@@ -29,12 +29,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2343e5c4-b740-4551-b04e-9f9166030fc7" name="Default Changelist" comment="Глава 2 (Задания 1 - 16) (Все задания)">
-      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/Colour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/LocaleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter3/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter3/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter3/chapter3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter3/src/main/java/com/bouncer77/thinking/chapter3/task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter3/src/main/java/com/bouncer77/thinking/chapter3/task1/SoutLong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter3/src/main/java/com/bouncer77/thinking/chapter3/task1/SoutShort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter3/src/main/java/com/bouncer77/thinking/chapter3/task1/ch3_t1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter3/src/main/java/com/bouncer77/thinking/chapter3/task10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter3/src/main/java/com/bouncer77/thinking/chapter3/task10/ch3_task10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter3/src/main/java/com/bouncer77/thinking/chapter3/task11/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter3/src/main/java/com/bouncer77/thinking/chapter3/task11/ch3_task11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter3/src/main/java/com/bouncer77/thinking/chapter3/task12_13/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter3/src/main/java/com/bouncer77/thinking/chapter3/task12_13/ch3_task12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter3/src/main/java/com/bouncer77/thinking/chapter3/task14/ch3_task14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter3/src/main/java/com/bouncer77/thinking/chapter3/task2/RefTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter3/src/main/java/com/bouncer77/thinking/chapter3/task2/ch2_task2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter3/src/main/java/com/bouncer77/thinking/chapter3/task3/RealNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter3/src/main/java/com/bouncer77/thinking/chapter3/task3/ch2_task3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter3/src/main/java/com/bouncer77/thinking/chapter3/task4/ch2_task4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter3/src/main/java/com/bouncer77/thinking/chapter3/task4/СalculateVelocity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter3/src/main/java/com/bouncer77/thinking/chapter3/task5_6/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter3/src/main/java/com/bouncer77/thinking/chapter3/task5_6/ch3_task5_6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter3/src/main/java/com/bouncer77/thinking/chapter3/task7/Coin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter3/src/main/java/com/bouncer77/thinking/chapter3/task8_9/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter3/src/main/java/com/bouncer77/thinking/chapter3/task8_9/ch3_task8_9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bouncer77/thinking/chapter2/ProgressBar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +92,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -167,6 +194,7 @@
       <workItem from="1595528169975" duration="4266000" />
       <workItem from="1595533659017" duration="934000" />
       <workItem from="1595534806826" duration="5351000" />
+      <workItem from="1595930204313" duration="716000" />
     </task>
     <task id="LOCAL-00001" summary="Глава 2 (Задания 1 - 16) (Все задания)">
       <created>1595536712324</created>
